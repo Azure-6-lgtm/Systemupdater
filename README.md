@@ -43,7 +43,7 @@ updater
 - duct crate (for running system commands)  
 
 ## 🎯 Goal
-To create a fast, clean, and user-friendly updater for Termux using Rust.  
+To create a fast, clean, and user-friendly updater for Termux using Rust for lazy people.For lazy people by a lazy people.  
 
 ## 📄 License
 MIT License  
