@@ -12,7 +12,7 @@ Simple CLI tool to update, upgrade, and clean your Termux environment with a cle
 - Minimal and beginner-friendly code
 
 ## 🖥️ Preview
-
+![App screenshot](Screenshot_2026-02-17-20-14-05-399_com.termux-edit.jpg) 
 ## ⚙️ Installation
 
 Clone the repo:
