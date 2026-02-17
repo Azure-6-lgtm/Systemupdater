@@ -33,3 +33,22 @@ Or move binary globally:
 mv target/release/updater $PREFIX/bin/
 updater
 ```
+## 📦 Requirements
+- Termux  
+- Rust (`pkg install rust`)  
+- Internet connection for updates  
+
+## 🛠️ Built With
+- Rust  
+- duct crate (for running system commands)  
+
+## 🎯 Goal
+To create a fast, clean, and user-friendly updater for Termux using Rust.  
+
+## 📄 License
+MIT License  
+
+## 👤 Author
+**Azure-6-lgtm**  
+https://github.com/Azure-6-lgtm
+
