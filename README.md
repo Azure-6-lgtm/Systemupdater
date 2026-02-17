@@ -12,3 +12,24 @@ Simple CLI tool to update, upgrade, and clean your Termux environment with a cle
 - Minimal and beginner-friendly code
 
 ## 🖥️ Preview
+
+## ⚙️ Installation
+
+Clone the repo:
+```bash
+git clone https://github.com/Azure-6-lgtm/Systemupdater.git
+cd Systemupdater
+```
+Build:
+```bash
+cargo build --release
+```
+Run:
+```bash
+./target/release/updater
+```
+Or move binary globally:
+```bash
+mv target/release/updater $PREFIX/bin/
+updater
+```
